@@ -4,7 +4,7 @@ import pandas as pd
 
 
 def read_decade_orig_df():
-    df = pd.read_csv("data/deaths-from-smallpox-in-london.csv")
+    df = pd.read_csv("apps/smallpox/data/deaths-from-smallpox-in-london.csv")
 
     i = 0
     tups = []
