@@ -7,7 +7,7 @@ def app():
 
     components.html("""
         <ul>
-            <li><a href="#" target="_blank">Smallpox</a></li>
+            <li><a href="https://share.streamlit.io/frankhart2018/data-knowledge/apps/smallpox/Smallpox_breakout.py" target="_blank">Smallpox</a></li>
         </ul>
     """)
 
